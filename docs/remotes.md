@@ -18,7 +18,7 @@ where 3scale instances need to be specified.
 
 *--config-file <config_file>*
 
-3scale CLI configuration file. When not set, the toolbox will lookup path at:
+3scale toolbox configuration file. When not set, the toolbox will lookup path at:
 
 * *THREESCALE_CLI_CONFIG* environment variable
 * `$HOME/.3scalerc.yaml`
